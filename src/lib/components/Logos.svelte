@@ -1,4 +1,4 @@
-<section class="bg-primary-50 border-b border-primary-200">
+<section class="bg-white border-b border-primary-200">
   <div class="max-w-[1400px] mx-auto px-6 py-16">
     <div class="text-center mb-8">
       <p class="text-xs text-primary-500 uppercase tracking-wider">Featured In</p>

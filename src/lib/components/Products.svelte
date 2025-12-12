@@ -2,7 +2,7 @@
   import SectionLabel from './SectionLabel.svelte';
 </script>
 
-<section id="services" class="bg-primary-50 px-6 py-24 border-t border-primary-200">
+<section id="services" class="bg-white px-6 py-24 border-t border-primary-200">
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12">
     <div class="lg:col-span-3">
       <SectionLabel label="Our Services" />
