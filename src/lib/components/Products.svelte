@@ -37,25 +37,6 @@
             <svg class="w-6 h-6 text-gray-400 group-hover:text-black transform group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
           </div>
         </a>
-
-        <!-- Item 2 -->
-        <a href="#contact" class="group grid grid-cols-1 md:grid-cols-12 gap-6 py-10 border-b border-gray-200 hover:bg-white transition-colors px-4 -mx-4">
-          <div class="md:col-span-4">
-            <div class="text-xs text-gray-400 mb-1">Starting at $475</div>
-            <h3 class="text-2xl font-medium text-gray-900">Scam Tracing</h3>
-          </div>
-          <div class="md:col-span-7">
-            <p class="text-gray-500 leading-relaxed mb-3">
-              Been scammed? We can help trace where your crypto went. While we can't recover stolen funds, we can track the transactions and create detailed reports for law enforcement. This helps build cases for legal action. We offer a free consultation to discuss your situation.
-            </p>
-            <p class="text-xs text-gray-400">
-              This service traces transactions but doesn't recover stolen funds
-            </p>
-          </div>
-          <div class="md:col-span-1 flex justify-end items-start pt-2">
-            <svg class="w-6 h-6 text-gray-400 group-hover:text-black transform group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-          </div>
-        </a>
       </div>
     </div>
   </div>

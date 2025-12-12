@@ -5,7 +5,6 @@
       <div class="flex flex-col gap-4">
         <h4 class="text-gray-500 mb-2">Services —</h4>
         <a href="#services" class="hover:text-gray-300">Wallet Recovery</a>
-        <a href="#services" class="hover:text-gray-300">Scam Tracing</a>
       </div>
 
       <!-- Col 2 -->

@@ -7,7 +7,6 @@
       </svg>
       <div class="flex flex-col">
         <div class="font-bold text-base tracking-tight leading-tight">Crypto Asset Recovery</div>
-        <span class="text-gray-500 text-xs">Wallet Password Recovery</span>
       </div>
     </div>
   </div>

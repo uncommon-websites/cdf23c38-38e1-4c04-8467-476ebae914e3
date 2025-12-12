@@ -30,10 +30,6 @@
     { 
       question: "How long will it take?", 
       answer: "It varies quite a bit depending on your situation. Some wallets we can recover in just a few hours, while others might take several months. The good news is that most people hear back from us within the first week with an initial update. We keep working on your case over time, and sometimes we succeed months later using new recovery methods we've developed." 
-    },
-    { 
-      question: "Can you help if I was scammed?", 
-      answer: "If your crypto was stolen or you were scammed, we can help trace where it went. This service starts at $475 and includes tracking up to 50 transactions and creating a detailed report for law enforcement. While we can't get stolen funds back, we can help you build a case for legal action. We offer a free consultation to discuss your situation and see if we can help." 
     }
   ];
 
