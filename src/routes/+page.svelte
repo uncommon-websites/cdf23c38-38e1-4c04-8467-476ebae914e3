@@ -4,6 +4,7 @@
   import Logos from '$lib/components/Logos.svelte';
   import WhyTrustUs from '$lib/components/WhyTrustUs.svelte';
   import Products from '$lib/components/Products.svelte';
+  import SupportedWallets from '$lib/components/SupportedWallets.svelte';
   import Founders from '$lib/components/Founders.svelte';
   import FAQ from '$lib/components/FAQ.svelte';
   import BottomCTA from '$lib/components/BottomCTA.svelte';
@@ -16,6 +17,7 @@
   <Logos />
   <WhyTrustUs />
   <Products />
+  <SupportedWallets />
   <Founders />
   <FAQ />
   <BottomCTA />

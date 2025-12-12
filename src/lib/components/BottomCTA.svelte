@@ -1,13 +1,13 @@
 <section id="contact" class="bg-[#f5f5f5] px-6 py-32 relative overflow-hidden">
   <div class="max-w-[1400px] mx-auto text-center relative z-10">
     <h2 class="font-serif text-4xl md:text-6xl text-gray-900 mb-12 leading-tight">
-      Your locked crypto doesn't have to stay locked<br/>
-      <span class="text-gray-400">Let's recover it together</span>
+      Ready to get your crypto back?<br/>
+      <span class="text-gray-400">Let's talk about your situation</span>
     </h2>
     <button class="bg-black text-white px-8 py-4 rounded text-sm font-medium hover:bg-gray-800 transition-colors">
       Start Your Free Consultation
     </button>
-    <p class="text-gray-500 text-sm mt-6">No recovery, no fee • 24-hour response time</p>
+    <p class="text-gray-500 text-sm mt-6">You only pay if we succeed • We'll respond within 24 hours</p>
   </div>
   
   <!-- Subtle curved lines at bottom -->

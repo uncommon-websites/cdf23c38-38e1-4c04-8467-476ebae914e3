@@ -8,32 +8,32 @@
 
   const faqs: FAQItem[] = [
     { 
-      question: "How secure is your recovery process?", 
-      answer: "All wallet recovery happens on air-gapped servers—completely offline with no internet connection. Your data is encrypted in transit and at rest. We never request your full password, and you control what information you share with us. Our infrastructure uses custom password cracking servers with Cloudflare security integration." 
+      question: "Is my information safe with you?", 
+      answer: "Absolutely. All wallet recovery happens on computers that are completely disconnected from the internet—no one can access them remotely. Your information is encrypted and secure. We never ask for your full password, and you decide what details to share with us. Your security is our top priority." 
     },
     { 
-      question: "What is your success rate?", 
-      answer: "We maintain a 55% success rate, which is industry-leading. Recovery time ranges from 1 hour to 6+ months depending on complexity. Initial searches are typically exhausted within one week, and we continue retesting as new recovery vectors are discovered." 
+      question: "What are my chances of getting my wallet back?", 
+      answer: "We've successfully recovered over 55% of the wallets we've worked on. How long it takes depends on your specific situation—some cases are resolved in hours, others take several months. Most people hear back from us within the first week. Even if we can't recover your wallet right away, we keep trying as we develop new techniques." 
     },
     { 
-      question: "What cryptocurrencies and wallets do you support?", 
-      answer: "We support Bitcoin, Ethereum, Litecoin, Dogecoin, NFTs, and dozens of altcoins. Wallet support includes Blockchain.com, Bitcoin Core, Multibit, Electrum, MetaMask, MyEtherWallet, Mist Ethereum Wallet, Dogechain Core, and more. We're expanding supported cryptocurrencies daily." 
+      question: "Which wallets can you help with?", 
+      answer: "We work with all the major wallets including Blockchain.com, Bitcoin Core, MetaMask, Trust Wallet, Electrum, MyEtherWallet, and many others. We support Bitcoin, Ethereum, Litecoin, Dogecoin, NFTs, and dozens of other cryptocurrencies. If you're not sure whether we can help with your specific wallet, just reach out and ask—we're happy to let you know." 
     },
     { 
-      question: "How much does wallet recovery cost?", 
-      answer: "We operate on a no recovery, no fee model—completely risk-free. You only pay if we successfully recover your wallet. This means there's no upfront cost or financial risk to you. We help anyone regardless of wallet size, unlike competitors who prioritize only the largest cases." 
+      question: "How much does this cost?", 
+      answer: "You only pay if we successfully recover your wallet. There's no upfront cost and no risk to you. We help everyone, whether your wallet has a little or a lot in it. Many other recovery services only take the biggest cases, but we believe everyone deserves help getting their crypto back." 
     },
     { 
-      question: "Why should I trust you over other recovery services?", 
-      answer: "We're the only crypto asset recovery company with public founders. Chris and Charles Brooks are fully identified with disclosed backgrounds. We've been featured in 100+ publications including BBC, Forbes, VICE, and The Block. We're a registered LLC in New Hampshire with a public business address. Dozens of impersonator companies exist—we're the only legitimate service with a doxxed team." 
+      question: "How do I know you're legitimate?", 
+      answer: "We're a real family business run by Chris and Charles Brooks, a father and son team. Unlike other recovery services, we use our real names and show our faces. We've been featured in major publications like BBC, Forbes, and VICE. We're a registered business in New Hampshire with a real address. Unfortunately, there are fake companies pretending to be us, so always make sure you're contacting the real Crypto Asset Recovery." 
     },
     { 
-      question: "How long does the recovery process take?", 
-      answer: "Recovery timelines vary from 1 hour to 6+ months depending on password complexity and wallet type. Most initial searches are completed within one week. We continuously expand our hardware capabilities and retest wallets as new recovery techniques are discovered, so even if initial attempts fail, we may succeed later." 
+      question: "How long will it take?", 
+      answer: "It varies quite a bit depending on your situation. Some wallets we can recover in just a few hours, while others might take several months. The good news is that most people hear back from us within the first week with an initial update. We keep working on your case over time, and sometimes we succeed months later using new recovery methods we've developed." 
     },
     { 
-      question: "Do you offer services beyond wallet recovery?", 
-      answer: "Yes, we offer scam tracing services starting at $475. This includes blockchain analysis of up to 50 transactions and investigation reports for law enforcement. We help build cases for criminal and civil legal proceedings. Note that this is investigation only, not a recovery service. Free consultation available for scam cases." 
+      question: "Can you help if I was scammed?", 
+      answer: "If your crypto was stolen or you were scammed, we can help trace where it went. This service starts at $475 and includes tracking up to 50 transactions and creating a detailed report for law enforcement. While we can't get stolen funds back, we can help you build a case for legal action. We offer a free consultation to discuss your situation and see if we can help." 
     }
   ];
 
@@ -48,8 +48,9 @@
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12">
     <div class="lg:col-span-4">
       <h2 class="font-serif text-4xl text-gray-900 mb-6">
-        Frequently asked questions
+        Common questions
       </h2>
+      <p class="text-gray-500 mb-4 leading-relaxed">Still have questions? We're here to help.</p>
       <a href="#contact" class="text-sm text-gray-900 border-b border-gray-300 pb-0.5 hover:border-black transition-colors">Get in touch</a>
     </div>
     

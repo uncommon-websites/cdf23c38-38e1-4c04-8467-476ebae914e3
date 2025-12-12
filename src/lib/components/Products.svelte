@@ -11,10 +11,10 @@
     <div class="lg:col-span-9">
       <div class="mb-16">
         <h2 class="font-serif text-4xl md:text-5xl text-gray-900 mb-2">
-          Wallet Recovery
+          How we can help
         </h2>
         <h2 class="font-serif text-4xl md:text-5xl text-gray-400">
-          and Scam Tracing
+          you recover your crypto
         </h2>
       </div>
 
@@ -27,10 +27,10 @@
           </div>
           <div class="md:col-span-7">
             <p class="text-gray-500 leading-relaxed mb-3">
-              Recover access to locked Bitcoin, Ethereum, Litecoin, Dogecoin wallets and NFTs. Our air-gapped password cracking servers test billions to trillions of combinations to restore your wallet access. Supports Blockchain.com, Bitcoin Core, MetaMask, Electrum, and more.
+              If you've forgotten your password or lost your recovery phrase, we can help. We use specialized computers that work completely offline to safely test password combinations until we find the right one. We support all major wallets including Blockchain.com, Bitcoin Core, MetaMask, Trust Wallet, and many others.
             </p>
             <p class="text-xs text-gray-400">
-              Timeline: 1 hour to 6+ months • Success rate: 55%
+              Most cases resolved within one week • We've helped recover over 55% of wallets
             </p>
           </div>
           <div class="md:col-span-1 flex justify-end items-start pt-2">
@@ -46,10 +46,10 @@
           </div>
           <div class="md:col-span-7">
             <p class="text-gray-500 leading-relaxed mb-3">
-              Blockchain analysis and investigation reports for law enforcement. We trace up to 50 transactions and provide detailed event reporting to help build cases for criminal and civil legal proceedings. Free consultation available.
+              Been scammed? We can help trace where your crypto went. While we can't recover stolen funds, we can track the transactions and create detailed reports for law enforcement. This helps build cases for legal action. We offer a free consultation to discuss your situation.
             </p>
             <p class="text-xs text-gray-400">
-              Note: Investigation only, not recovery service
+              This service traces transactions but doesn't recover stolen funds
             </p>
           </div>
           <div class="md:col-span-1 flex justify-end items-start pt-2">
