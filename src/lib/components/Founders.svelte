@@ -1,13 +1,13 @@
-<section class="px-6 py-12 bg-[#f5f5f5]">
-  <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-[#0a2533] h-[500px] flex flex-col justify-center items-center text-center px-6">
+<section id="founders" class="px-6 py-12 bg-[#f5f5f5]">
+  <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-[#0a0d12] h-[500px] flex flex-col justify-center items-center text-center px-6">
     
     <!-- Background Image & Overlay -->
     <img 
-      src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2968&auto=format&fit=crop" 
-      alt="Meeting" 
+      src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?q=80&w=2969&auto=format&fit=crop" 
+      alt="Father and son team" 
       class="absolute inset-0 w-full h-full object-cover opacity-20 mix-blend-overlay grayscale"
     />
-    <div class="absolute inset-0 bg-gradient-to-b from-[#0f3042] to-[#05151e] opacity-90"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-gray-900/95 to-black/90 opacity-95"></div>
 
     <!-- Curved Lines -->
     <svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 1400 500" fill="none" preserveAspectRatio="none">
@@ -19,19 +19,27 @@
     <div class="relative z-10 max-w-2xl">
       <div class="absolute top-[-80px] left-0 flex items-center gap-2 text-white/60 text-[10px] tracking-[0.2em] font-medium uppercase">
         <div class="w-[2px] h-3 bg-white/60"></div>
-        For Founders
+        Meet the Founders
       </div>
 
       <h2 class="font-serif text-3xl md:text-5xl text-white mb-6 leading-tight">
-        Giving projects another option for their cap table
+        A father-son team solving a problem they experienced firsthand
       </h2>
       <p class="text-gray-400 text-lg mb-10 leading-relaxed">
-        Echo helps you raise from people who believe in what you're building — whether it's through our private investor groups or directly from your own community.
+        Chris Brooks built technology systems at Fidelity and Carescout before experiencing crypto wallet lockouts himself. In 2017, he founded Crypto Asset Recovery. His son Charles, a computer science graduate from UVM, joined in 2021 to power the air-gapped password cracking systems.
       </p>
       
-      <button class="border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
-        See Echo for founders
-      </button>
+      <div class="flex flex-col md:flex-row gap-6 justify-center items-center text-sm">
+        <div class="text-left">
+          <p class="text-white font-medium">Chris Brooks</p>
+          <p class="text-gray-500">Chief Executive Officer</p>
+        </div>
+        <div class="hidden md:block w-px h-8 bg-gray-700"></div>
+        <div class="text-left">
+          <p class="text-white font-medium">Charles Brooks</p>
+          <p class="text-gray-500">Chief Technology Officer</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>

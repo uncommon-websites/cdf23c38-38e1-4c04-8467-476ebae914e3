@@ -1,21 +1,25 @@
 <nav class="flex items-center justify-between px-6 py-4 bg-[#f5f5f5] text-sm font-medium border-b border-transparent">
   <div class="flex items-center gap-8">
-    <div class="flex items-center gap-2">
-      <div class="font-bold text-lg tracking-wide flex items-center gap-1">
-        <div class="w-[3px] h-4 bg-black"></div>
-        ECHO
+    <div class="flex items-center gap-3">
+      <svg width="27" height="32" viewBox="0 0 81 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M22.4326 32.8572L58.238 12.3214L36.7547 0L0.950022 20.5354L0.949219 61.6062L22.4325 73.9277L22.4326 32.8572Z" fill="#0A0D12"/>
+        <path d="M80.2888 34.2267V75.2982L44.4833 95.8331L23 83.5116L58.8055 62.976V21.9054L80.2888 34.2267Z" fill="#0A0D12"/>
+      </svg>
+      <div class="flex flex-col">
+        <div class="font-bold text-base tracking-tight leading-tight">Crypto Asset Recovery</div>
+        <span class="text-gray-500 text-xs">Wallet Password Recovery</span>
       </div>
-      <span class="text-gray-500 ml-2">Early-stage investing</span>
     </div>
   </div>
 
   <div class="hidden md:flex items-center gap-8 absolute left-1/2 -translate-x-1/2">
-    <a href="/" class="text-gray-900 hover:text-gray-600">For investors +</a>
-    <a href="/" class="text-gray-500 hover:text-gray-900">For founders</a>
+    <a href="#services" class="text-gray-900 hover:text-gray-600">Services</a>
+    <a href="#how-it-works" class="text-gray-500 hover:text-gray-900">How It Works</a>
+    <a href="#founders" class="text-gray-500 hover:text-gray-900">About</a>
   </div>
 
   <div class="flex items-center gap-6">
-    <a href="/" class="text-gray-900 hover:text-gray-600">Log in</a>
-    <a href="/" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Sign up</a>
+    <a href="#faq" class="text-gray-900 hover:text-gray-600">FAQ</a>
+    <a href="#contact" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Free Consultation</a>
   </div>
 </nav>
