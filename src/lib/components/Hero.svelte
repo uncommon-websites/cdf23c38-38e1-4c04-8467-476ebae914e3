@@ -44,11 +44,29 @@
         <path d="M-100,600 C300,400 600,200 1500,300" stroke="white" stroke-width="1" stroke-opacity="0.15" vector-effect="non-scaling-stroke" />
       </svg>
 
-      <!-- Center Text -->
-      <div class="absolute inset-0 flex items-center justify-center">
-        <div class="flex items-center gap-2 text-white/80 text-[10px] tracking-[0.2em] font-medium uppercase">
-          <div class="w-[2px] h-3 bg-white/80"></div>
-          Air-Gapped Security
+      <!-- Center Content -->
+      <div class="absolute inset-0 flex items-center justify-center px-6">
+        <div class="text-center max-w-2xl">
+          <div class="text-white text-4xl md:text-5xl font-serif mb-4 leading-tight">
+            Your wallet stays completely offline during recovery
+          </div>
+          <div class="text-white/70 text-base md:text-lg leading-relaxed">
+            We never connect your wallet to the internet. Our secure, isolated systems protect your crypto while we work to restore your access.
+          </div>
+          <div class="mt-8 flex flex-wrap items-center justify-center gap-6 text-white/60 text-sm">
+            <div class="flex items-center gap-2">
+              <div class="w-1.5 h-1.5 rounded-full bg-white/60"></div>
+              <span>55% success rate</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <div class="w-1.5 h-1.5 rounded-full bg-white/60"></div>
+              <span>Trusted since 2017</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <div class="w-1.5 h-1.5 rounded-full bg-white/60"></div>
+              <span>No recovery, no fee</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
