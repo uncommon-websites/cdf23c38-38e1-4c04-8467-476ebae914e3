@@ -1,7 +1,7 @@
-<section class="bg-[#f5f5f5] border-b border-gray-200">
+<section class="bg-primary-50 border-b border-primary-200">
   <div class="max-w-[1400px] mx-auto px-6 py-16">
     <div class="text-center mb-8">
-      <p class="text-xs text-gray-400 uppercase tracking-wider">Featured In</p>
+      <p class="text-xs text-primary-500 uppercase tracking-wider">Featured In</p>
     </div>
     <div class="flex flex-wrap justify-center items-center gap-12 md:gap-16 opacity-40 grayscale hover:grayscale-0 transition-all duration-500">
       

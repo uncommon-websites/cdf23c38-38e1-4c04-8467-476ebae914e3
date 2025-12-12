@@ -2,7 +2,7 @@
   import SectionLabel from './SectionLabel.svelte';
 </script>
 
-<section id="services" class="bg-[#f5f5f5] px-6 py-24 border-t border-gray-200">
+<section id="services" class="bg-primary-50 px-6 py-24 border-t border-primary-200">
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12">
     <div class="lg:col-span-3">
       <SectionLabel label="Our Services" />
@@ -10,31 +10,31 @@
     
     <div class="lg:col-span-9">
       <div class="mb-16">
-        <h2 class="font-serif text-4xl md:text-5xl text-gray-900 mb-2">
+        <h2 class="font-serif text-4xl md:text-5xl text-primary-900 mb-2">
           How we can help
         </h2>
-        <h2 class="font-serif text-4xl md:text-5xl text-gray-400">
+        <h2 class="font-serif text-4xl md:text-5xl text-primary-500">
           you recover your crypto
         </h2>
       </div>
 
-      <div class="grid gap-0 border-t border-gray-200">
+      <div class="grid gap-0 border-t border-primary-200">
         <!-- Item 1 -->
-        <a href="#contact" class="group grid grid-cols-1 md:grid-cols-12 gap-6 py-10 border-b border-gray-200 hover:bg-white transition-colors px-4 -mx-4">
+        <a href="#contact" class="group grid grid-cols-1 md:grid-cols-12 gap-6 py-10 border-b border-primary-200 hover:bg-white transition-colors px-4 -mx-4">
           <div class="md:col-span-4">
-            <div class="text-xs text-gray-400 mb-1">No recovery, no fee</div>
-            <h3 class="text-2xl font-medium text-gray-900">Crypto Wallet Recovery</h3>
+            <div class="text-xs text-primary-500 mb-1">No recovery, no fee</div>
+            <h3 class="text-2xl font-medium text-primary-900">Crypto Wallet Recovery</h3>
           </div>
           <div class="md:col-span-7">
-            <p class="text-gray-500 leading-relaxed mb-3">
+            <p class="text-primary-700 leading-relaxed mb-3">
               If you've forgotten your password or lost your recovery phrase, we can help. We use specialized computers that work completely offline to safely test password combinations until we find the right one. We support all major wallets including Blockchain.com, Bitcoin Core, MetaMask, Trust Wallet, and many others.
             </p>
-            <p class="text-xs text-gray-400">
+            <p class="text-xs text-primary-500">
               Most cases resolved within one week • We've helped recover over 55% of wallets
             </p>
           </div>
           <div class="md:col-span-1 flex justify-end items-start pt-2">
-            <svg class="w-6 h-6 text-gray-400 group-hover:text-black transform group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+            <svg class="w-6 h-6 text-primary-500 group-hover:text-primary-700 transform group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
           </div>
         </a>
       </div>
