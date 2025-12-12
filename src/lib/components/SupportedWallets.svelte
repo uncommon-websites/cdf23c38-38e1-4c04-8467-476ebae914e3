@@ -23,8 +23,8 @@
         <!-- Blockchain.com -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              BC
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/blockchain.com" alt="Blockchain.com logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">Blockchain.com</h3>
@@ -38,8 +38,8 @@
         <!-- Bitcoin Core -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              ₿
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/bitcoin.org" alt="Bitcoin Core logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">Bitcoin Core</h3>
@@ -53,8 +53,8 @@
         <!-- MetaMask -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              MM
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/metamask.io" alt="MetaMask logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">MetaMask</h3>
@@ -68,8 +68,8 @@
         <!-- Trust Wallet -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              TW
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/trustwallet.com" alt="Trust Wallet logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">Trust Wallet</h3>
@@ -83,8 +83,8 @@
         <!-- Electrum -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              EL
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/electrum.org" alt="Electrum logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">Electrum</h3>
@@ -98,8 +98,8 @@
         <!-- MyEtherWallet -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0 text-primary-700 font-medium text-sm">
-              MEW
+            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <img src="https://logo.clearbit.com/myetherwallet.com" alt="MyEtherWallet logo" class="w-8 h-8 object-contain" />
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">MyEtherWallet</h3>

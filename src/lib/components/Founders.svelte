@@ -1,4 +1,4 @@
-<section id="founders" class="px-6 py-12 bg-primary-50">
+<section id="founders" class="px-6 py-12 bg-white">
   <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-primary-950 h-[500px] flex flex-col justify-center items-center text-center px-6">
     
     <!-- Background Image & Overlay -->
