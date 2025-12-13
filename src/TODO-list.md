@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-12T20:48:30.065Z -->
+<!-- Updated: 2025-12-13T00:35:01.502Z -->
 
 # Current Todo List State
 
@@ -40,3 +40,7 @@
 - [x] Update Founders component to remove blue background
 - [x] Update SupportedWallets component to use real wallet logos
 - [x] Run comprehensive error check and fix all issues
+- [x] Change Hero section accent labels from blue to gray
+- [x] Change Hero section indicator dots from blue to gray
+- [x] Verify no other blue text elements need adjustment
+- [x] Run error check to ensure changes are valid

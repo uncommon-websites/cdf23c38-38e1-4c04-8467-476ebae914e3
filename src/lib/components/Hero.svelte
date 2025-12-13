@@ -44,15 +44,15 @@
       <div class="flex flex-wrap items-center justify-between gap-6">
         <div class="flex flex-wrap items-center gap-8 text-sm text-gray-500">
           <div class="flex items-center gap-2">
-            <div class="w-2 h-2 rounded-full bg-primary-500"></div>
+            <div class="w-2 h-2 rounded-full bg-gray-400"></div>
             <span>Est. 2017</span>
           </div>
           <div class="flex items-center gap-2">
-            <div class="w-2 h-2 rounded-full bg-primary-500"></div>
+            <div class="w-2 h-2 rounded-full bg-gray-400"></div>
             <span>100+ Publications</span>
           </div>
           <div class="flex items-center gap-2">
-            <div class="w-2 h-2 rounded-full bg-primary-500"></div>
+            <div class="w-2 h-2 rounded-full bg-gray-400"></div>
             <span>55% Success Rate</span>
           </div>
         </div>
