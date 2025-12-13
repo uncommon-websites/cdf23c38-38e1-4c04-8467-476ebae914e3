@@ -98,8 +98,12 @@
         <!-- MyEtherWallet -->
         <div class="border border-primary-200 p-6 rounded hover:border-primary-300 transition-colors">
           <div class="flex items-start gap-4">
-            <div class="w-12 h-12 bg-white border-2 border-primary-200 rounded flex items-center justify-center flex-shrink-0 overflow-hidden">
-              <img src="https://logo.clearbit.com/myetherwallet.com" alt="MyEtherWallet logo" class="w-8 h-8 object-contain" />
+            <div class="w-12 h-12 bg-primary-100 rounded flex items-center justify-center flex-shrink-0">
+              <svg class="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M21 12V7H5a2 2 0 0 1 0-4h14v4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M3 5v14a2 2 0 0 0 2 2h16v-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M18 12a2 2 0 0 0 0 4h4v-4h-4z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
             </div>
             <div>
               <h3 class="text-xl font-medium text-primary-900 mb-2">MyEtherWallet</h3>
