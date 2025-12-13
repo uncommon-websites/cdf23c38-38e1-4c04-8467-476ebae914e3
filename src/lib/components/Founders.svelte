@@ -3,11 +3,11 @@
     
     <!-- Background Image & Overlay -->
     <img 
-      src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?q=80&w=2969&auto=format&fit=crop" 
+      src="https://www.cityam.com/wp-content/uploads/2022/02/Chris-Charlie-Brooks-1.jpeg" 
       alt="Father and son team" 
-      class="absolute inset-0 w-full h-full object-cover opacity-15 mix-blend-overlay"
+      class="absolute inset-0 w-full h-full object-cover"
     />
-    <div class="absolute inset-0 bg-gradient-to-b from-primary-950/95 to-primary-900/90 opacity-95"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-primary-950/80 to-primary-900/85"></div>
 
     <!-- Curved Lines -->
     <svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 1400 500" fill="none" preserveAspectRatio="none">

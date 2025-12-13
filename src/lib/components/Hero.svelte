@@ -62,11 +62,11 @@
     <div class="relative w-full h-[500px] overflow-hidden rounded bg-gray-900 mb-0">
       <!-- Image Overlay -->
       <img 
-        src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2940&auto=format&fit=crop" 
+        src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2234&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
         alt="Secure server infrastructure" 
-        class="absolute inset-0 w-full h-full object-cover opacity-15"
+        class="absolute inset-0 w-full h-full object-cover"
       />
-      <div class="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900"></div>
+      <div class="absolute inset-0 bg-gradient-to-br from-gray-900/75 via-gray-800/80 to-gray-900/85"></div>
       
       <!-- Curved Line Graphic -->
       <svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 1400 500" fill="none" preserveAspectRatio="none">
